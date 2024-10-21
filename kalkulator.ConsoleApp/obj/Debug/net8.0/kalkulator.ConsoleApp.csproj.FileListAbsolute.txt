@@ -1,0 +1,14 @@
+C:\Users\bkober\source\repos\kalkulator.ConsoleApp\kalkulator.ConsoleApp\bin\Debug\net8.0\kalkulator.ConsoleApp.exe
+C:\Users\bkober\source\repos\kalkulator.ConsoleApp\kalkulator.ConsoleApp\bin\Debug\net8.0\kalkulator.ConsoleApp.deps.json
+C:\Users\bkober\source\repos\kalkulator.ConsoleApp\kalkulator.ConsoleApp\bin\Debug\net8.0\kalkulator.ConsoleApp.runtimeconfig.json
+C:\Users\bkober\source\repos\kalkulator.ConsoleApp\kalkulator.ConsoleApp\bin\Debug\net8.0\kalkulator.ConsoleApp.dll
+C:\Users\bkober\source\repos\kalkulator.ConsoleApp\kalkulator.ConsoleApp\bin\Debug\net8.0\kalkulator.ConsoleApp.pdb
+C:\Users\bkober\source\repos\kalkulator.ConsoleApp\kalkulator.ConsoleApp\obj\Debug\net8.0\kalkulator.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkober\source\repos\kalkulator.ConsoleApp\kalkulator.ConsoleApp\obj\Debug\net8.0\kalkulator.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\bkober\source\repos\kalkulator.ConsoleApp\kalkulator.ConsoleApp\obj\Debug\net8.0\kalkulator.ConsoleApp.AssemblyInfo.cs
+C:\Users\bkober\source\repos\kalkulator.ConsoleApp\kalkulator.ConsoleApp\obj\Debug\net8.0\kalkulator.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\bkober\source\repos\kalkulator.ConsoleApp\kalkulator.ConsoleApp\obj\Debug\net8.0\kalkulator.ConsoleApp.dll
+C:\Users\bkober\source\repos\kalkulator.ConsoleApp\kalkulator.ConsoleApp\obj\Debug\net8.0\refint\kalkulator.ConsoleApp.dll
+C:\Users\bkober\source\repos\kalkulator.ConsoleApp\kalkulator.ConsoleApp\obj\Debug\net8.0\kalkulator.ConsoleApp.pdb
+C:\Users\bkober\source\repos\kalkulator.ConsoleApp\kalkulator.ConsoleApp\obj\Debug\net8.0\kalkulator.ConsoleApp.genruntimeconfig.cache
+C:\Users\bkober\source\repos\kalkulator.ConsoleApp\kalkulator.ConsoleApp\obj\Debug\net8.0\ref\kalkulator.ConsoleApp.dll
